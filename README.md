@@ -46,3 +46,15 @@ This dataset captures volcano-related disaster declarations and focuses on offic
 ## Key Insights
 ## Recommendation
 ## Tools Used
+The tools used in this project support the entire data analytics process, starting from data understanding and cleaning to analysis, visualization, and documentation.
+### Power BI 
+Power BI is used as the primary tool for data cleaning, transformation, and exploratory data analysis (EDA).
+* Power Query is used to clean and prepare the datasets, create relationships between multiple files, and derive calculated measures.
+* Interactive dashboards are then developed to visualize disaster trends, patterns, and insights.
+### Visual Studio Code
+Visual Studio Code is used as a supporting tool to examine the raw datasets before analysis. 
+It had helped in understanding data structure, checking formatting issues, and validating data quality, providing an additional perspective on data cleaning and preparation.
+### GitHub
+GitHub is used for project documentation, version control, and repository management. 
+* All datasets, README documentation, and project-related files are stored in a structured manner.
+* It is also used as a platform to demonstrate project originality, workflow organization, and transparency of work

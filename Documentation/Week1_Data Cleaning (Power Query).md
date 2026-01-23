@@ -13,6 +13,8 @@ This exploration included:
 * Identifying incorrect or inconsistent data types
 * Looking for blank or null values
 * Understanding what each column represents
+------------
+We were shared with Customer Call List by our mentor for cleaning and transforming
 ## Data Cleaning Activities Performed
 I learned varied steps to clean the data for making it standardised.
 ### Removing Unnecessary Columns

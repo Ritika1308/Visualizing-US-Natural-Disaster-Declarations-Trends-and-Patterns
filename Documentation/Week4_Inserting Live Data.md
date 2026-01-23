@@ -51,7 +51,7 @@ Containing Power BI files and dashboards
 #### Data Cleaning: 
 Containing the complete cleaning journey screenshots and related files
 #### Screenshots: 
-Contaiings labelled screenshots to show project flow clearly
+Containing labelled screenshots to show project flow clearly
 #### Documentation: 
 Containing week-wise learning files and a README file
 We also learned that the README file is extremely important, as it gives the first impression of the entire project and explains everything clearly to the viewer.

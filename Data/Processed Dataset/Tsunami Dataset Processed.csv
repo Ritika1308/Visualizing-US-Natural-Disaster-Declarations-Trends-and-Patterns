@@ -1,0 +1,87 @@
+Disaster Occurance Date,Disaster Location,State,Country,Tsunami Cause,Tsunami Cause Code,Tsunami Event Validity,Earthquake Magnitude,Latitude,Longitude,Maximum Water Height (m),Number of Runups,Tsunami Magnitude (Iida),Tsunami Intensity,Total Deaths,Total Injuries,Total Damage ($Mil),Time
+"Tuesday, August 21, 1951",HAWAII,,USA,Earthquake,1,4,6.9,19.5,-156,3.6,7,1.8,0.5,,,,10:57:00 AM
+"Monday, March 17, 1952",HAWAII,,USA,Earthquake,1,4,4.5,19.1,-155,3,2,,0,,,,3:58:00 AM
+"Tuesday, March 18, 1952",MISSISSIPPI RIVER,,USA,Not Reported,0,1,,,,,0,,,,,,
+"Thursday, April 10, 1952",COLUMBIA RIVER VALLEY,WASHINGTON,USA,Unknown,8,4,,48.57,-118.15,19.81,1,,,,,,11:00:00 AM
+"Tuesday, May 6, 1952",LAKE HURON,MICHIGAN,USA,Other,9,4,,43.1,-82.4,1.52,3,,,,,,
+"Monday, October 13, 1952",COLUMBIA RIVER VALLEY,WASHINGTON,USA,Unknown,8,4,,48.57,-118.15,,1,,,,,,1:00:00 PM
+"Saturday, February 14, 1953",COLUMBIA RIVER VALLEY,WASHINGTON,USA,Unknown,8,4,,48.57,-118.15,,1,,,,,,4:15:00 PM
+"Monday, February 16, 1953",COLUMBIA RIVER VALLEY,WASHINGTON,USA,Unknown,8,4,,48.57,-118.15,4.8,1,,,,,,11:43:00 AM
+"Wednesday, August 19, 1953",COLUMBIA RIVER VALLEY,WASHINGTON,USA,Unknown,8,4,,,,,1,,,,,,7:00:00 PM
+"Friday, November 1, 1957",HAWAII,,USA,Other,9,-1,,,,0.1,5,,-3,,,,5:00:00 AM
+"Friday, December 21, 1962","FOX ISLANDS, ALEUTIAN ISLANDS",ALASKA,USA,Earthquake,1,1,6.5,52.47,-168.54,,1,,,,,,8:42:43 AM
+"Friday, March 20, 1964",GULF OF ALASKA,ALASKA,USA,Not Reported,0,2,,,,0.08,1,,,,,,4:00:00 PM
+"Tuesday, May 19, 1964",LONG ISLAND,NEW YORK,USA,Unknown,8,3,,40.8,-73.1,0.28,11,,,,,,12:00:00 AM
+"Tuesday, March 30, 1965","RAT ISLANDS, ALEUTIAN ISLANDS",ALASKA,USA,Earthquake,1,4,7.6,50.32,177.93,0.1,3,-2.3,-1,,,,2:27:03 AM
+"Friday, July 2, 1965","FOX ISLANDS, ALEUTIAN ISLANDS",ALASKA,USA,Earthquake,1,4,6.5,53.03,-167.55,0.08,3,-3.3,-2,,,,8:58:38 PM
+"Sunday, October 1, 1967",GREWINGK,ALASKA,USA,Unknown,8,3,,59.621,-151.106,60,1,,,,,,
+"Wednesday, March 11, 1970",ANDREANOF ISLANDS,ALASKA,USA,Earthquake,1,3,6,57.5,-153.9,0.03,2,,,,,,10:38:35 PM
+"Sunday, May 2, 1971",ANDREANOF ISLANDS,ALASKA,USA,Earthquake,1,4,7.1,51.228,-177.173,0.04,1,,-3,,,,6:08:28 AM
+"Saturday, November 6, 1971","RAT ISLANDS, ALEUTIAN ISLANDS",ALASKA,USA,Earthquake,1,2,5.7,51.5,179.1,0.1,2,,,,,,10:00:00 PM
+"Sunday, July 30, 1972",SE. ALASKA,ALASKA,USA,Landslide,3,4,7.6,56.82,-135.685,0.1,3,-2.3,-2,,,,9:45:14 PM
+"Wednesday, February 28, 1979",SE. ALASKA,ALASKA,USA,Landslide,3,4,7.5,60.691,-141.671,0.15,2,-1.7,,,,,9:27:08 PM
+"Saturday, January 1, 1983",BROWNSVILLE,WASHINGTON,USA,Unknown,8,1,,47.67,-122.615,0.6,1,,,,,,
+"Wednesday, May 7, 1986",ANDREANOF ISLANDS,ALASKA,USA,Earthquake,1,4,8,51.52,-174.776,0.9,66,-0.1,,,,,10:47:11 PM
+"Saturday, May 17, 1986",ANDREANOF ISLANDS,ALASKA,USA,Earthquake,1,1,6.4,52.327,-174.504,,0,,,,,,4:20:22 PM
+"Tuesday, November 17, 1987",GULF OF ALASKA,ALASKA,USA,Earthquake,1,4,7.2,58.586,-143.27,0.06,1,-3.3,,,,,8:46:53 AM
+"Monday, November 30, 1987",GULF OF ALASKA,ALASKA,USA,Earthquake,1,4,7.9,58.679,-142.786,0.43,10,-1,,,,,7:23:20 PM
+"Saturday, April 30, 1988",S. CALIFORNIA,,USA,Other,9,-1,,,,,1,,,,,,
+"Monday, June 26, 1989",HAWAII,,USA,Landslide,3,4,6.5,19.362,-155.083,0.29,3,-1.7,,,,,3:27:04 AM
+"Monday, September 4, 1989",SEMIDI ISLANDS,ALASKA,USA,Earthquake,1,4,7.1,55.543,-156.835,0.1,2,-3.3,,,,,1:14:58 PM
+"Thursday, February 21, 1991",BERING SEA,ALASKA,USA,Earthquake,1,4,6.7,58.427,-175.45,0.15,2,-1.7,,,,,2:35:34 AM
+"Tuesday, January 4, 1994",COREA HARBOR,MAINE,USA,Other,9,1,,44.4,-67.97,1.5,1,,,,,,
+"Friday, July 8, 1994",HAWAII,,USA,Explosion,7,2,,19.421,-155.287,,0,,,,,,
+"Thursday, September 1, 1994",N. CALIFORNIA,,USA,Earthquake,1,4,7,40.402,-125.68,0.07,1,-3.3,-3,,,,3:15:53 PM
+"Monday, June 10, 1996",ANDREANOF ISLANDS,ALASKA,USA,Earthquake,1,4,7.9,51.564,-177.632,0.51,65,,0.5,,,,4:03:35 AM
+"Monday, June 10, 1996",ANDREANOF ISLANDS,ALASKA,USA,Earthquake,1,4,7.3,51.478,-176.847,0.18,1,-3.3,-1.5,,,,3:24:56 PM
+"Saturday, November 4, 2000",POINT ARGUELLO,S. CALIFORNIA,USA,Unknown,8,1,,34.5,-120.65,4.6,1,,,,,,7:30:00 PM
+"Monday, November 17, 2003","RAT ISLANDS, ALEUTIAN ISLANDS",ALASKA,USA,Earthquake,1,4,7.8,51.146,178.65,0.33,20,,,,,,6:43:07 AM
+"Wednesday, June 15, 2005",N. CALIFORNIA,,USA,Earthquake,1,4,7.2,41.301,-125.97,0.1,5,,,,,,2:50:53 AM
+"Thursday, August 2, 2007",ALEUTIAN ISLANDS,ALASKA,USA,Earthquake,1,4,6.7,51.307,-179.971,0.03,1,,,,,,3:21:43 AM
+"Friday, August 8, 2008","KASATOCHI VOLCANO, ALEUTIAN IS",ALASKA,USA,Meteorological,6,4,,52.18,-175.5,0.19,2,,,,,,
+"Friday, January 16, 2009",COLUMBIA RIVER VALLEY,WASHINGTON,USA,Unknown,8,3,,,,9,1,,,,,,
+"Friday, June 24, 2011","ATKA, ALEUTIAN ISLANDS",ALASKA,USA,Earthquake,1,4,7.3,52.05,-171.836,0.1,7,,,,,,3:09:39 AM
+"Friday, September 2, 2011","FOX ISLANDS, ALEUTIAN ISLANDS",ALASKA,USA,Earthquake,1,4,6.8,52.171,-171.708,0.06,1,,,,,,10:55:54 AM
+"Saturday, January 5, 2013",SE. ALASKA,ALASKA,USA,Landslide,3,4,7.5,55.393,-134.652,1.5,8,,,,,,8:58:19 AM
+"Monday, June 23, 2014",ALEUTIAN ISLANDS,ALASKA,USA,Earthquake,1,4,7.9,51.849,178.735,0.17,20,,,,,,8:53:10 PM
+"Friday, July 25, 2014",PALMA BAY,ALASKA,USA,Earthquake,1,4,6,58.335,-136.971,0.08,1,,,,,,10:54:50 AM
+"Monday, July 27, 2015","FOX ISLANDS, ALEUTIAN ISLANDS",ALASKA,USA,Earthquake,1,4,6.9,52.376,-169.446,0.08,2,,,,,,4:49:46 AM
+"Sunday, October 18, 2015",ICY BAY,ALASKA,USA,Unknown,8,4,,60.08,-141.3,193,3,,,,,,5:19:00 AM
+"Monday, May 1, 2017",SKAGWAY,ALASKA,USA,Earthquake,1,4,6.2,59.821,-136.711,0.06,1,,,,,,12:31:03 PM
+"Tuesday, January 23, 2018",KODIAK ISLAND,ALASKA,USA,Earthquake,1,4,7.9,56.004,-149.166,0.25,64,,,,,,9:31:41 AM
+"Tuesday, May 15, 2018",NORTHEAST U.S.A.,,USA,Other,9,4,,,,0.22,10,,,,,,
+"Sunday, April 14, 2019",LAKE ERIE,,USA,Other,9,4,,,,1.2,2,,,,,,11:17:00 PM
+"Thursday, April 23, 2020",GULF OF MEXICO,,USA,Other,9,4,,,,0.5,1,,,,,,
+"Saturday, June 13, 2020",GULF OF MEXICO,,USA,Other,9,4,,,,0.5,1,,,,,,
+"Wednesday, July 22, 2020",SHUMAGIN ISLANDS,ALASKA,USA,Earthquake,1,4,7.8,55.03,-158.522,0.24,13,,,,,,6:12:44 AM
+"Monday, October 19, 2020",SHUMAGIN ISLANDS,ALASKA,USA,Earthquake,1,4,7.6,54.608,-159.655,0.76,33,,,,,,8:54:39 PM
+"Thursday, July 29, 2021",KODIAK ISLAND,ALASKA,USA,Earthquake,1,4,8.2,55.325,-157.841,0.42,63,,,,,,6:15:47 AM
+"Sunday, May 8, 2022",RESURRECTION BAY,ALASKA,USA,Unknown,8,4,,60.092,-149.444,0.06,1,,,,,,3:39:00 AM
+"Wednesday, June 21, 2023",GULF OF MEXICO,,USA,Other,9,4,,,,0.6,1,,,,,,
+"Wednesday, August 7, 2024",PEDERSEN LAGOON,ALASKA,USA,Unknown,8,4,,59.904,-149.825,17,3,,,,,,12:54:49 PM
+"Sunday, November 17, 2024",COLUMBIA RIVER VALLEY,WASHINGTON,USA,Unknown,8,3,,48.572,-118.141,14.33,88,,,,,,3:45:00 PM
+"Thursday, December 5, 2024",CAPE MENDOCINO,N. CALIFORNIA,USA,Earthquake,1,4,7,40.374,-125.022,0.09,3,,,,,,6:44:21 PM
+"Wednesday, July 16, 2025",SAND POINT,ALASKA,USA,Earthquake,1,4,7.3,54.549,-160.472,0.1,2,,,,,,8:37:39 PM
+"Sunday, August 10, 2025",TRACY ARM,ALASKA,USA,Unknown,8,4,,57.84,-133.06,470,4,,,,,,1:26:00 PM
+"Saturday, June 26, 1954",MICHIGAN CITY,IN (LALASKAE MICHIGANCHIGAN),USA,Other,9,3,,41.7,-86.883,3,5,,,7,,,
+"Sunday, May 18, 1980",WASHINGTON,,USA,Explosion,7,4,,46.2,-122.18,250,2,,,61,,,
+"Friday, July 4, 2003",WARREN DUNES,MICHIGANCHIGAN,USA,Other,9,3,,,,,0,,,7,,,
+"Sunday, July 16, 2023",SAND POINT,ALASKA,USA,Earthquake,1,4,7.2,54.46,-160.76,0.15,3,,,1,,,6:48:22 AM
+"Saturday, March 9, 1957",ANDREANOF ISLANDS,ALASKA,USA,Earthquake,1,4,8.6,51.499,-175.626,32,332,3.9,3,2,1,,2:22:32 PM
+"Friday, July 3, 1992",DAYTONA BEACH,FLORIDA,USA,Other,9,2,,,,3,4,,,,75,,
+"Tuesday, August 25, 2009",COLUMBIA RIVER VALLEY,WASHINGTON,USA,Unknown,8,3,,,,,1,,,,2,,
+"Thursday, June 13, 2013",NORTHWEST ATLANTIC OCEAN,,USA,Other,9,4,,,,1.8,38,,,,2,,
+"Friday, February 23, 1951",COLUMBIA RIVER VALLEY,WASHINGTON,USA,Unknown,8,4,,,,3,1,1.6,,,,0.003,4:45:00 PM
+"Tuesday, August 18, 1959",HEGBEN LAKE,MONTANA,USA,Landslide,3,0,7.2,44.63,-110.891,1,1,,,28,,11,6:37:20 AM
+"Saturday, March 28, 1964",PRINCE WILLIAM SOUND,ALASKA,USA,Landslide,3,4,9.2,60.908,-147.339,51.8,428,6.1,3.5,139,,400,3:36:16 AM
+"Saturday, January 30, 1965",COLUMBIA RIVER VALLEY,WASHINGTON,USA,Unknown,8,3,,,,,1,,,1,,0.07,9:20:00 AM
+"Thursday, February 4, 1965","RAT ISLANDS, ALEUTIAN ISLANDS",ALASKA,USA,Earthquake,1,4,8.7,51.251,178.715,10.7,84,3.3,2.5,,,0.01,5:01:22 AM
+"Saturday, November 29, 1975",HAWAII,,USA,Landslide,3,4,7.7,19.451,-155.033,14.3,86,3,3,2,19,4,2:47:41 PM
+"Sunday, March 6, 1988",GULF OF ALASKA,ALASKA,USA,Earthquake,1,4,7.8,57.262,-142.747,0.19,9,-2.3,,,,0.005,10:35:37 PM
+"Wednesday, October 18, 1989",N. CALIFORNIA,,USA,Earthquake,1,4,6.9,37.036,-121.883,1,3,-3.3,,62,3757,5600,12:04:15 AM
+"Saturday, April 25, 1992",CAPE MENDOCINO,N. CALIFORNIA,USA,Earthquake,1,4,7.2,40.368,-124.316,1.8,14,0.8,0.5,,98,66,6:06:04 PM
+"Monday, January 17, 1994",WEST COAST,USA,USA,Earthquake,1,3,6.7,34.213,-118.537,0.1,0,-3.3,-3,57,11846,40000,12:30:55 PM
+"Friday, November 4, 1994",SKAGWAY,ALASKA,USA,Unknown,8,4,,59.5,-135.3,9,2,3.5,2.5,1,,25,4:12:00 AM
+"Sunday, October 15, 2006",HAWAII,,USA,Earthquake,1,4,6.7,19.878,-155.935,0.1,1,,,,,150,5:07:49 PM
+"Tuesday, October 28, 2008",MAINE,,USA,Other,9,3,,43.8,-69.7,3.6,5,,,,,0.02,
+"Friday, May 4, 2018",HAWAII,,USA,Volcanic Eruption,4,4,6.9,19.318,-155,0.4,7,,,,1,370,10:32:37 PM

@@ -2,7 +2,7 @@
 ## Problem Statement
 The rise in frequency and intensity of natural disasters has become a major challenge in the disaster preparedness and policy-making arena in the United States. Although there is an ample volume of unutilized raw data relating to natural disasters, this project aims at creating powerful visualization from the FEMA data related to disasters in the country, their trends and high risk regions.
 ## Data Set Description
-The project is informed by four key datasets, each selected from authoritative government sources: FEMA and NOAA. These datasets collectively represent administrative declarations of disasters and scientific event-level observations for a move from mere counts to understanding the patterns, severity, and real-world impact of natural disasters in the United States.
+The project is informed by one key dataset, selected from authoritative government source: FEMA. The dataset collectively represent administrative declarations of disasters and scientific event-level observations for a move from mere counts to understanding the patterns, severity, and real-world impact of natural disasters in the United States.
 ### Disaster Declaration Dataset
 This is the primary dataset of the project, as it contains official records of federally declared disasters in the United States. It is mainly used to analyze disaster frequency, affected regions, and government response.
 #### Key Columns Used
@@ -29,40 +29,61 @@ This dashboard focuses on overall declaration activity over time. The following 
 * Total Declarations: The overall count of declarations in the dataset.
 * Average Declarations per Fiscal Year (FY): The mean number of declarations issued per fiscal year.
 * Peak Year Declarations: Identification of the fiscal year with the highest number of declarations.
-Dashboard 2: Geographic Distribution
+### Dashboard 2: Geographic Distribution
 This dashboard highlights the geographic spread of declarations:
 * Total Declarations: The total number of declarations across all regions.
 * Total States Affected: The number of unique states impacted by at least one declaration.
-Dashboard 3: Incident Type Analysis & Assistance Patterns
+### Dashboard 3: Incident Type Analysis & Assistance Patterns
 This dashboard analyzes the level of assistance associated with declarations:
 * Total Declarations: The overall count of declarations.
 * Declarations with Assistance % : The percentage distribution of assistance programs calculated based on the number of assistance programs approved per declaration.
+
 These KPIs enable a high-level understanding of declaration frequency, temporal trends, geographic reach, and assistance coverage. All KPIs are computed directly from the dataset and are reproducible using the scripts provided in this repository.
 ## Dashboard Pages
 This project uses a dataset of declarations to explore temporal trends, geographic distribution, and relationships between incident types and assistance programs through three interactive dashboards.
 ### Dashboard 1: Temporal Overview
 This dashboard provides a time-based analysis of declarations to understand long-term and seasonal trends. It answers the following questions:
 
-1.How has the total number of declarations trended annually over time?
-2.What are the temporal trends for the top five incident types?
-3.Which months record high and low declaration counts, indicating seasonality in declaration activity?
+1. How has the total number of declarations trended annually over time?
+2. What are the temporal trends for the top five incident types?
+3. Which months record high and low declaration counts, indicating seasonality in declaration activity?
 
 The analysis highlights year-over-year changes, incident-specific temporal patterns, and monthly variations to identify peaks and declines in declaration frequency.
 
 ### Dashboard 2: Geographic Distribution
 This dashboard focuses on the spatial distribution of declarations across states. It addresses the following questions:
 
-1.What are the primary geographic hotspots for major incident types?
-2.Which states lead in total declarations, broken down by incident type?
+1. What are the primary geographic hotspots for major incident types?
+2. Which states lead in total declarations, broken down by incident type?
 By mapping declaration counts and segmenting them by incident type, this dashboard identifies regions with higher exposure to specific incidents and recurring declaration activity.
 ### Dashboard 3: Incident Type and Assistance Program Analysis
 This dashboard examines the relationship between incident types and assistance programs. It answers the following questions:
-1.How does the declaration of assistance programs relate to different incident types?
-2.What is the proportional distribution of assistance programs across declarations?
-3.How do incident types compare in terms of their relative contribution to total declaration volume?
+1. How does the declaration of assistance programs relate to different incident types?
+2. What is the proportional distribution of assistance programs across declarations?
+3. How do incident types compare in terms of their relative contribution to total declaration volume?
+
 This analysis provides insight into how assistance programs are allocated across incident categories and how declaration volume varies by incident type.
 ## Key Insights
+1. Disaster declarations in the U.S. have increased over time, with more than 5,100 declarations recorded since 1953 and a clear rise from the 1990s onward, indicating growing disaster risk and federal involvement.
+2. Severe storms are the most dominant disaster type, consistently accounting for the highest number of declarations across years and states, making weather-related events the primary driver of U.S. disasters.
+3. Disaster occurrences show strong seasonality, with peaks in late summer and early autumn, aligning with hurricane season and intensified storm activity.
+4. Disaster impacts are geographically concentrated, with states such as Texas, Florida, and Louisiana experiencing disproportionately high numbers of declarations due to repeated exposure to multiple hazard types.
+5. The majority of disasters require federal assistance, with approximately 62% of declarations including one or more assistance programs, highlighting limits in state and local response capacity.
+6. Public Assistance is the most frequently activated support program, especially for severe storms and hurricanes, indicating that disasters most commonly result in significant damage to public infrastructure and community services.
 ## Recommendation
+Based on the analysis of temporal trends, geographical patterns, and incident type with assistance distributions across the three dashboards, following can be the actionable reccomendations:
+1. Prioritise disaster preparedness for severe storms
+Since severe storms are the most frequent disaster type nationwide, emergency planning, early warning systems, and public awareness campaigns should focus primarily on storm-related hazards.
+2. Strengthen seasonal readiness plans
+Given the clear peak in disaster declarations during late summer and early autumn, federal and state agencies should pre-position resources, funding, and response teams ahead of high-risk months.
+3. Target high-risk states with enhanced mitigation efforts
+States such as Texas, Florida, and Louisiana should receive priority investment in flood control, storm-resistant infrastructure, and hazard mitigation programs due to their consistently high disaster exposure.
+4. Expand investment in hazard mitigation programs
+Increasing funding for mitigation initiatives can reduce long-term disaster costs, as current assistance patterns show a heavier reliance on post-disaster Public Assistance rather than preventive measures.
+5. Improve infrastructure resilience
+The high activation of Public Assistance programs suggests widespread damage to public infrastructure. Strengthening roads, utilities, and public facilities can reduce recovery time and financial losses.
+6. Use data-driven planning to allocate federal assistance
+Historical disaster trends, geographical concentration, and incident type patterns should be leveraged to optimise funding allocation, ensuring faster and more efficient disaster response.
 ## Tools Used
 The tools used in this project support the entire data analytics process, starting from data understanding and cleaning to analysis, visualization, and documentation.
 ### Power BI 
